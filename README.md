@@ -8,8 +8,6 @@ This was learnt and done by me for personal interest and also as practical learn
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
-Ex. -
-
 <b>Built with</b>
 - [Java]
 - [Kotlin]
