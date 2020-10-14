@@ -35,6 +35,7 @@ Read License Docs at <a href = "https://www.gnu.org/licenses/gpl-3.0.en.html">GN
 GNU General Public License © [Sourav Ranjan Maharana](https://github.com/sauravsomxz)
 
 ## Contact
+<p>Incase of any queries/questions please contact below! :)</p>
 <summary align="center"><strong>Contact:</strong></summary>
      <table align="center">
          <tr align="center">
