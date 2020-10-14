@@ -33,3 +33,12 @@ Copyright 2020 <br>
 Read License Docs at <a href = "https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License 3.0</a>
 
 GNU General Public License © [Sourav Ranjan Maharana](https://github.com/sauravsomxz)
+
+## Contact
+<summary align="center"><strong>Contact:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><a href="mailto:saurav.maharana07@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
+             <td  align = "center"><a href="https://www.linkedin.com/in/sourav-ranjan-maharana/"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a></td>
+             <td  align = "center"><a href="https://www.instagram.com/oldschoolboy17/?hl=en"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
+     </tr>
