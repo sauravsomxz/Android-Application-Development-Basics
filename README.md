@@ -32,4 +32,4 @@ If you find any error/suggestions to improve the application. Make a PR and I'll
 Copyright 2020 
 Read License Docs at <a href = "https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License 3.0</a>
 
-GPU General Public License © [Sourav Ranjan Maharana](https://github.com/sauravsomxz)
+GNU General Public License © [Sourav Ranjan Maharana](https://github.com/sauravsomxz)
