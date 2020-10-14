@@ -5,8 +5,6 @@ This repository contains all the micro projects made by while I was learning "An
 This was learnt and done by me for personal interest and also as practical learning for third semester.
 
 ## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
-
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
