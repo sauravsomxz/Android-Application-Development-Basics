@@ -29,7 +29,7 @@ To run them, just import the required folder into Android Studio and then run us
 If you find any error/suggestions to improve the application. Make a PR and I'll check and merge it. :)
 
 ## License
-Copyright 2020 
+Copyright 2020 <br>
 Read License Docs at <a href = "https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License 3.0</a>
 
 GNU General Public License © [Sourav Ranjan Maharana](https://github.com/sauravsomxz)
