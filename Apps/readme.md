@@ -7,4 +7,4 @@
 4. Adding Images to App - In this app, I've added an image using Image widget and then added a button to display the next image. When the user click on next image, the next image will be called from the onClick Function and showed to the user.
 
 *After completing the above 4 apps, you should do -
-  1. Currency Converter App - This app will take in INR (Indian Rupee) and Convert it to Dollars ($). Please try yourself and then find the code in <a href="https://github.com/sauravsomxz/Android-Application-Development-Basics/tree/main/Micro%20Projects/1.%20CurrencyConverter">here.</a>
+  1. Currency Converter App - This app will take in INR (Indian Rupee) and Convert it to Dollars ($). Please try yourself and then find the code <a href="https://github.com/sauravsomxz/Android-Application-Development-Basics/tree/main/Micro%20Projects/1.%20CurrencyConverter">here.</a>
