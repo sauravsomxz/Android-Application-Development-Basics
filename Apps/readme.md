@@ -8,3 +8,4 @@
 
 *After completing the above 4 apps, you should do -
   1. Currency Converter App - This app will take in INR (Indian Rupee) and Convert it to Dollars ($). Please try yourself and then find the code <a href="https://github.com/sauravsomxz/Android-Application-Development-Basics/tree/main/Micro%20Projects/1.%20CurrencyConverter">here.</a>
+  2. Higher or Lower Game - This is a simple guessing game. Please try yourself and find the code <a href="https://github.com/sauravsomxz/Android-Application-Development-Basics/tree/main/Micro%20Projects/2.%20HigherOrLowerGame">here</a>
